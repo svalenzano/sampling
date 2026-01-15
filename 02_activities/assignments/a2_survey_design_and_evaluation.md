@@ -40,30 +40,32 @@ For the **Canadian General Social Survey on Giving, Volunteering, and Participat
 
 ## Part A - Survey Design: 
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `#1`
 
 Describe the purpose of your survey:
 ```
-write your answer here...
+The purpose of this survey is to identify factors contributing to high turnover among entry-level position and collect data on employee satisfaction.
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-write your answer here...
+Target population: Employee's in entry-level positions who have joined the company within the last 6 months
+
+Sampling Frame: Human Resource database with employee records
+
+Sampling Units: Individual Employee
+
+Overall Sampling Strategy: Census of all current entry-level employees as this will allow us to reach our entire target sample (it is small enough that this is feasible).
 ```
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+1. When did you start your position?
+2. My workload is manageable (rate level of agreement: low 1-5 high)
+3. I am strongly supported by my manager (rate level of agreement: low 1-5 high)
+4. I have peer support/ friendships in the office (rate level of agreement:  low 1-5 high)
+5. I believe I am being compensated appropriately for the work I produce (rate level of agreement:  low 1-5 high)
+6. How likely are you to look for another job within the next 6 months? (rate likelihood:  low 1-5 high)
 ```
 
 ## Part B - Survey Evaluation:
@@ -71,7 +73,27 @@ Your 5-10 question survey:
 Identify and describe survey features:
 
 ```
-write your answer here
+Sample type: This is a cross-sectional survey stratified into 2 phases 
+
+Sample size: 80,000 (60,000 regular, 20,000 over)
+
+Sampling unit: phase 1 - household, phase 2- individual 
+
+Target Population: Canadian residents aged 15 years or older, excluding Yukon, Nunavut, Northwest Territories or those living on a first nations reserve
+
+Sampling frame: 2021 census of the Canadian population 
+
+Response rate: There was a 40.9% response rate  
+
+Cleaning/imputation: a donor imputation was used 
+
+Sources of error were identified using a bootstrap method. non-sampling error: imperfect coverage and non-response.
+
+Survey mode: Electronic questionnaire and computer assisted telephone interviewing 
+
+Timeline: 2023-09-15 to 2024-03-30
+
+Limitations: Self-report bias is always a limitation of survey responses as the responses are subjective. There is also a coverage bias as the sample excludes residents of territories and first nation reserves. FInally there is a cross-sectiona design limitation as no causal-relationships can be deffered. 
 ```
 
 ## Rubric
